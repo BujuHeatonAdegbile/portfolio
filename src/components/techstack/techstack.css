@@ -1,0 +1,18 @@
+.card {
+    width: 10rem;
+    height: 10rem;
+    background-color: #212121;
+    border-radius: 1rem;
+    border: #212121 0.2rem solid;
+    transition: all 0.4s ease-in;
+    box-shadow: 0.4rem 0.4rem 0.6rem #00000040;
+    padding: 30px 0;
+    justify-content: center;
+   }
+   
+   .card:hover {
+    transform: translateY(-1.5rem);
+    border: #f2295bf0 0.2em solid;
+    border-radius: 2.5rem 0 2.5rem 0;
+   }
+   
