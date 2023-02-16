@@ -30,7 +30,7 @@ const Header = () => {
               </li>
               <div class = "button-center">
                 <div class="main_div">
-                    <a href = "https://www.linkedin.com/in/buju-heaton-adegbile-2658a4146/" target= "_blank"><button>Lets Connect <i class="fa-brands fa-linkedin fa-xl linkdin-icon"></i></button></a>
+                    <a href = "https://www.linkedin.com/in/buju-heaton-adegbile-2658a4146/" target= "_blank"><button>Lets Connect <i class="fa-brands fa-linkedin fa-xl icon-padding"></i></button></a>
                 </div> 
               </div>
             </ul>
