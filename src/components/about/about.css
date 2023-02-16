@@ -1,3 +1,18 @@
 .me {
     border-radius: 50%;
 }
+
+.button-box {
+    padding: 20px 0;
+    display: flex;
+    gap: 20px;
+}
+
+#about h4 {
+    padding-bottom: 20px
+}
+
+.github-btn {
+    background-color: transparent;
+    border: 1px solid #fe3780;;
+}

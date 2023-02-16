@@ -15,8 +15,11 @@ const About = () => {
         <div class = "col-lg-6 col-md-6 col-sm-12">
           <h4>My Professional Summary</h4>
           <p>I am an experienced data and AI consultant with extensive skills and experience in delivering data-related strategies to customers in the retail and construction industries. Proficient in business intelligence, automation, AI technologies and web development, with a proven track record of delivering impactful results. Committed to staying up to date with the latest industry developments and utilising cutting-edge technologies to drive business success.</p>
-          <button>Downlaod CV</button>
-          <button>GitHub Profile</button>
+          <div class = "button-box">
+            <button>Download CV</button>
+            <button class = "github-btn">GitHub <i class="fa-brands fa-github fa-xl icon-padding"></i></button>
+          </div>
+          
         </div>
       </div>
 
