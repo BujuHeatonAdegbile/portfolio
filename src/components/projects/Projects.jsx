@@ -6,7 +6,7 @@ const Projects = () => {
     <section id = "projects">
       <h2><span class = "blue-text">Here Are </span><span class = "white-text">Some Of </span><br/><span class = "transparent-text">My Favourite </span><span class = "blue-text">Projects</span></h2>
       <div class = "project-cards">
-        <article>
+        {/* <article>
           <img src="" alt="" />
           <h5>Woofa Website</h5>
           <p>Web Development</p>
@@ -30,7 +30,7 @@ const Projects = () => {
           <img src="" alt="" />
           <h5>Woofa Website</h5>
           <p>Web Development</p>
-        </article>
+        </article> */}
 
       </div>
     </section>

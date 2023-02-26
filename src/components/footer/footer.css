@@ -10,3 +10,14 @@
     text-align: center;
 }
 
+.footer-icon-div {
+    background-color: #fe3780;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+}
+
+div>i {
+    padding: 20px 0;
+}
